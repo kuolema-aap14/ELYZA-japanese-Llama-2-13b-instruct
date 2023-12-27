@@ -12,7 +12,7 @@ language:
 
 ### Model Description
 **ELYZA-japanese-Llama-2-13b** は、 Llama 2をベースとして日本語能力を拡張するために追加事前学習を行ったモデルです。
-詳細は [Blog記事](https://editor.note.com/notes/n5d42686b60b7) を参照してください。
+詳細は [Blog記事](https://note.com/elyza/n/n5d42686b60b7) を参照してください。
 
 ### Usage
 
